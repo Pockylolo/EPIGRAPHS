@@ -1,6 +1,6 @@
-# EPITARBRE - 2022 #
+# EPIGRAPHS - 2022 #
 @Pockylolo
-//I hope that you will find the thing you were looking for but respect my work please :)//
+/*I hope that you will find the thing you were looking for but respect my work please :)*/
 
 
 EPIGRAPHS is a software for learning graphs data structures.
