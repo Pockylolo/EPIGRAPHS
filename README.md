@@ -1,12 +1,15 @@
 # EPITARBRE - 2022 #
+@Pockylolo
+//I hope that you will find the thing you were looking for but respect my work please :)//
 
-EPITARBRE is a software for learning tree data structures.
+
+EPIGRAPHS is a software for learning graphs data structures.
 
 The software was code whith C language and works only on LINUX system
 
 //**HOW TO INSTALL THE SOFTWARE**//
 
-    - Download the zip folder on the web site (remember : LINUX system)
+    - Download the zip folder (remember : LINUX system)
     - Unzip the folder
     - Open a terminal and install some tools with theses commands:
 
@@ -19,13 +22,11 @@ The software was code whith C language and works only on LINUX system
 
 - Make work the executable with these command:
 
+        -> make
         -> ./main
 
 
-The software consists of 2 parts : trees / graphs
-
-You can learn on depth first search method with different order as prefix 
-or suffix (and infix for the trees !)
+You can learn on depth first search method with different order as prefix or suffix.
 The instructions are given in order to help you to use the software.
 If you have problems the software will point you out where you have your problem.
 Fix it and retry !
@@ -33,5 +34,4 @@ In rare case it is possible that you did magic...
 but it is ok, just click on "RESET" to retry with another graph.
 
 
-
-Enjoy discovering Epitarbre :)
+Enjoy discovering EpiGraphs :)
